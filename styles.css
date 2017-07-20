@@ -1,0 +1,71 @@
+html {
+  background-color: pink;
+  font-family: Century Gothic;
+  text-align: center;
+  margin: 0 auto;
+}
+/*
+body {
+  background-color: pink;
+}*/
+
+.EBE {
+  width: auto;
+  height: 425px;
+}
+
+.BaileyNme {
+  width: auto;
+  height: 214px;
+}
+
+.BaileyUpNorth {
+  width: auto;
+  height: 214px;
+}
+img {
+  width: auto;
+}
+
+.home-container {
+  font-family: Century Gothic;
+  background-color: white;
+  border: 2px solid black;
+  margin: 0 auto;
+  text-align: center;
+  padding: 10px;
+  width: 500px;
+}
+
+.cat-container {
+  font-family: Century Gothic;
+  background-color: white;
+  border: 2px solid black;
+  margin: 0 auto;
+  width: 50%;
+  text-align: center;
+  padding: 10px;
+  display: block;
+}
+
+.pawprint {
+  width: 300px;
+  height: 315px;
+}
+.EverestLoves {
+  text-align: left;
+}
+
+.dog-container {
+  font-family: Century Gothic;
+  background-color: white;
+  border: 2px solid black;
+  margin: 0 auto;
+  width: 60%;
+  text-align: center;
+  padding: 10px;
+}
+
+.BaileyLoves {
+  text-align: left;
+}
